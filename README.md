@@ -65,18 +65,6 @@ I build **LLM-powered systems** and **on-chain infrastructure** — and I like i
 
 ---
 
-## `> projects`
-
-| Projet | Description | Stack |
-|---|---|---|
-| 🔁 **[decentralize-exchange_v1](https://github.com/0xreithink/decentralize-exchange_v1)** | AMM à produit constant (x · y = k) : swaps, pools de liquidité et jetons LP | Vyper · Moccasin · Titanoboa |
-| 🪙 **[tokenVendor](https://github.com/0xreithink/tokenVendor)** | Distributeur de jetons ERC20 contre ETH à taux fixe, déployé sur zkSync Sepolia, avec fuzzing stateful | Vyper · Snekmate · Hypothesis |
-| 🤝 **[crowdfunding-with-erc20](https://github.com/0xreithink/crowdfunding-with-erc20)** | Smart contract de financement participatif en jetons ERC20 | Vyper · Moccasin · Anvil |
-| 💸 **[foundry-fund-me-f23](https://github.com/0xreithink/foundry-fund-me-f23)** | Application de crowdsourcing on-chain, avec tests et CI | Solidity · Foundry · GitHub Actions |
-| 🧠 **[langchain-academys](https://github.com/0xreithink/langchain-academys)** | Travaux sur le parcours LangGraph de LangChain Academy : agents, mémoire, human-in-the-loop, LangGraph Studio | LangGraph · LangSmith · Python |
-
----
-
 ## `> stats`
 
 <div align="center">
