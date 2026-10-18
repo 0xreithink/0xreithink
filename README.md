@@ -7,14 +7,22 @@
 
 **AI Engineer · Blockchain Engineer · Zero-Knowledge**
 
-```text
- _  _ ___ _    _    ___   __      _____  ___ _    ___  
-| || | __| |  | |  / _ \  \ \    / / _ \| _ \ |  |   \ 
-| __ | _|| |__| |_| (_) |  \ \/\/ / (_) |   / |__| |) |
-|_||_|___|____|____\___/    \_/\_/ \___/|_|_\____|___/
-```
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/avatar.svg" width="96" alt="avatar"/></td>
+    <td>
+<pre>
+ _  _     _ _      __      __       _    _
+| || |___| | |___  \ \    / /__ _ _| |__| |
+| __ / -_) | / _ \  \ \/\/ / _ \ '_| / _` |
+|_||_\___|_|_\___/   \_/\_/\___/_| |_\__,_|
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=520&lines=%3E+system+online+%E2%80%94+welcome_;%3E+rei.think();%3E+LLMs+%7C+RAG+%7C+agents+%7C+ZK+proofs" alt="typing"/>
+</pre>
+    </td>
+  </tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=1500&color=F778BA&center=true&vCenter=true&width=360&lines=%E2%80%A2+system+online+%E2%80%94+welcome_" alt="system online"/>
 
 </div>
 
